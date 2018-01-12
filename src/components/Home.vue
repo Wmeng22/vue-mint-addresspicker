@@ -21,7 +21,7 @@
     data() {
       return {
         showAddressPicker: true,
-        address: '广东-深圳市-福田区'
+        address: '广西-来宾市-兴宾区'
       }
     },
     methods: {
